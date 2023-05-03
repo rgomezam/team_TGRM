@@ -1,6 +1,5 @@
-# TGRM team 
-
-to the rescue 
+# TGRM team 
+## Summary
 
 Kaggle project:
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting
@@ -20,7 +19,8 @@ https://www.kaggle.com/settings/account
 
 
 
-# create a conda environment from file
+## Technical details
+###  create a conda environment from file
 (all this can also be done from the interface of anaconda navigator or similar programmes, maybe from VScode?)
 
 `conda env create -f environment.yml`
