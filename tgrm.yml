@@ -1,0 +1,7 @@
+name: tgrm
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - ipykernel
+  - conda-forge kaggle
