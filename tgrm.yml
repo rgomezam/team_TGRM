@@ -4,4 +4,4 @@ dependencies:
   - pandas
   - scipy
   - ipykernel
-  - conda-forge kaggle
+
