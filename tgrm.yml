@@ -5,3 +5,7 @@ dependencies:
   - scipy
   - ipykernel
 
+
+- matplotlib
+- statsmodels
+- scikit-learn
